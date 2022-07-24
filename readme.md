@@ -10,6 +10,7 @@
 + Setting Up VS Code for Julia | Talk Julia #11 > https://www.youtube.com/watch?v=KesuPOlBB_o
 + JULIA BASIC, INT, ADVANCE tutorials by DJ's Office Hours > https://www.youtube.com/watch?v=xxOUOkhHhTU&list=PLOU8LxhyFylLYpkd3WgEmblTUiwrZ719y&index=4
 
+Ver los paquetes
 ```
 pkg status
 ```
@@ -32,7 +33,7 @@ pkg status
   [bd369af6] Tables v1.7.0
   [37e2e46d] LinearAlgebra
 ```
-
+Para usar los paquetes 
 ```
 using Plots, LinearAlgebra, LaTeXStrings, (otros)
 ```
