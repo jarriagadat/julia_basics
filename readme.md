@@ -6,6 +6,9 @@
 + VSCODE
 + GIT
   + https://www.youtube.com/watch?v=F2DBSH2VoHQ
+  
+## Referencias
++ The Fast Track to Julia, a quick and dirty overview > Juliahttps://juliadocs.github.io/Julia-Cheat-Sheet/
 + Data Science using Julia > https://juliadatascience.io/
 + Setting Up VS Code for Julia | Talk Julia #11 > https://www.youtube.com/watch?v=KesuPOlBB_o
 + JULIA BASIC, INT, ADVANCE tutorials by DJ's Office Hours > https://www.youtube.com/watch?v=xxOUOkhHhTU&list=PLOU8LxhyFylLYpkd3WgEmblTUiwrZ719y&index=4
