@@ -54,3 +54,10 @@ julia> using UpdateJulia
 
 julia> update_julia()
 ```
+Después de actualizar hacer esto:
+- Iniciar julia
+```
+julia> using Pkg
+julia> Pkg.update()
+julia> Pkg.build("IJulia")
+```
