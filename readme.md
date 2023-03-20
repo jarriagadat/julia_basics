@@ -44,18 +44,14 @@ using Plots, LinearAlgebra, LaTeXStrings, (otros)
 
 ```
 julia> ]
-
 pkg> add UpdateJulia
-
 # Presionar ']' para habilitar el pkg mode en el REPL(read–eval–print-loop)
 # Presionar 'delete' para salir  
-
 julia> using UpdateJulia
-
 julia> update_julia()
 ```
 Después de actualizar hacer esto:
-- Iniciar julia
+> Iniciar julia
 ```
 julia> using Pkg
 julia> Pkg.update()
