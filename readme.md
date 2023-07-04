@@ -54,6 +54,18 @@ Después de actualizar hacer esto:
 salir de julia
 > Iniciar julia
 > versioninfo()
+```
+versioninfo()
+Julia Version 1.9.1
+Commit 147bdf428c (2023-06-07 08:27 UTC)
+Platform Info:
+  OS: Windows (x86_64-w64-mingw32)
+  CPU: 16 × AMD Ryzen 9 5900HS with Radeon Graphics
+  WORD_SIZE: 64
+  LIBM: libopenlibm
+  LLVM: libLLVM-14.0.6 (ORCJIT, znver3)
+  Threads: 1 on 16 virtual cores
+  ```
 
 ```
 julia> using Pkg
