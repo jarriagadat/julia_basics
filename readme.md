@@ -51,7 +51,10 @@ julia> using UpdateJulia
 julia> update_julia()
 ```
 Después de actualizar hacer esto:
+salir de julia
 > Iniciar julia
+> versioninfo()
+
 ```
 julia> using Pkg
 julia> Pkg.update()
