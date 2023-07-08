@@ -13,6 +13,9 @@
 + Setting Up VS Code for Julia | Talk Julia #11 > https://www.youtube.com/watch?v=KesuPOlBB_o
 + JULIA BASIC, INT, ADVANCE tutorials by DJ's Office Hours > https://www.youtube.com/watch?v=xxOUOkhHhTU&list=PLOU8LxhyFylLYpkd3WgEmblTUiwrZ719y&index=4
 + julia basics cheat sheeet | datacamp 2022 > https://datacamp.com/cheat-sheet/julia-basics-cheat-sheet
++ video: "Why Julia?" A high level description of the features and benefits of programming in Julia https://www.youtube.com/watch?v=x4oi0IKf52w
+
+
 Ver los paquetes
 ```
 pkg status
