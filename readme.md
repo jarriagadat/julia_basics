@@ -53,6 +53,11 @@ pkg> add UpdateJulia
 julia> using UpdateJulia
 julia> update_julia()
 ```
+to update packages
+```
+pkg> up
+```
+
 Después de actualizar hacer esto:
 salir de julia
 > Iniciar julia
